@@ -1,1 +1,8 @@
-# Student-Performance-EDA
+# Student Performance EDA 
+
+# Necessary Libraries
+
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
